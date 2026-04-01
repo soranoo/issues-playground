@@ -33,7 +33,7 @@
     "sharp": "0.32.6"
   },
   "devDependencies": {
-    "@payloadcms/graphql": "3.45.0",
+    "@payloadcms/graphql": "3.79.1",
     "@swc/core": "^1.6.13",
     "@types/react": "19.0.1",
     "@types/react-dom": "19.0.1",
