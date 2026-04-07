@@ -18,7 +18,7 @@
   "dependencies": {
     "@payloadcms/db-mongodb": "3.45.0",
     "@payloadcms/db-postgres": "3.45.0",
-    "@payloadcms/next": "3.45.0",
+    "@payloadcms/next": "3.78.0",
     "@payloadcms/plugin-multi-tenant": "3.45.0",
     "@payloadcms/richtext-lexical": "3.45.0",
     "@payloadcms/ui": "3.45.0",
